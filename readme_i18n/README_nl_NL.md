@@ -40,7 +40,6 @@
 - ⚠️ Volg altijd het [3-2-1](https://www.backblaze.com/blog/the-3-2-1-backup-strategy/) backup plan voor je kostbare foto's en video's!
 
 ## Inhoud
-s
 - [Officiële documentatie](https://immich.app/docs)
 - [Roadmap](https://github.com/orgs/immich-app/projects/1)
 - [Demo](#demo)
